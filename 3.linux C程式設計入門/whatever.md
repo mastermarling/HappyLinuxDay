@@ -473,10 +473,15 @@ int main(void)
 
 ## 答案
 ˋˋˋ
+
+
 #include <stdio.h>
 int main(void)
+
 {
+
 	int n;
+	
 	int ans = 0;
 	scanf("%d", &n);
 	
